@@ -1,0 +1,5 @@
+- Configurações do banco: .env
+- Instalar dependências: `npm install`
+- Criar tabelas: `npx sequelize db:migrate`
+- Popular tabelas: `npx sequelize db:seed:all`
+- Iniciar aplicação em desenvolvimento: `npm run dev`

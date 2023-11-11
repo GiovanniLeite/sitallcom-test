@@ -1,0 +1,53 @@
+SQL
+1 - SQL/1 - INSERT - Registros.sql
+
+2 - SQL/2 - SELECT - Livros, Autores e Gêneros.sql
+
+3 - SQL/3 - SELECT - Autores, Livros, Paginas.sql
+
+4 - SQL/4 - DELETE - Livros com menos de 200 páginas.sql
+
+JAVA - Fiz esta parte aqui com Node
+5 - 
+- HTML/server/src/models/Autor.js
+- HTML/server/src/models/Genero.js
+- HTML/server/src/models/Livro.js
+
+6 
+- HTML/server/src/controllers/LivroController.js - index
+ou
+- http://localhost:3001/livros
+
+7 - 
+- HTML/server/src/controllers/LivroController.js - indexQ7
+ou
+- http://localhost:3001/livros/q7
+
+8 - 
+- HTML/server/src/controllers/LivroController.js - deleteQ8
+ou
+- http://localhost:5173 > clique em "Remover < 200 pag"
+
+HTML
+9 - Video (HTML/HTML.mp4)
+- Feito com React, Node, Express e MySQL
+- HTML/client e HTML/server
+
+- HTML/server/.env - Configurações do Banco
+- HTML/server - npm i
+- HTML/server - npx sequelize db:migrate
+- HTML/server - npx sequelize db:seed:all
+- HTML/server - npm run dev
+
+- HTML/client - npm i
+- HTML/client - npm run dev
+
+-----
+Portfólio: https://giovannileite.com
+GitHub: https://github.com/GiovanniLeite
+
+
+
+
+
+

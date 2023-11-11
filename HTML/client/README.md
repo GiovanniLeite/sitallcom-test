@@ -1,0 +1,2 @@
+- Instalar dependências: `npm install`
+- Iniciar aplicação em desenvolvimento: `npm run dev`
